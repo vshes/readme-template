@@ -16,12 +16,12 @@
 - **Commands**
 
 ``` Docker
-      docker build . 
-      docker build -f customfile
-      docker images ls
-      docker ps --all
-      docker kill <CID>
-      docker exec -it <CN> bash
+   docker build . 
+   docker build -f customfile
+   docker images ls
+   docker ps --all
+   docker kill <CID>
+   docker exec -it <CN> bash
 ```
 - **KEYWORDS**
 ``` Docker
