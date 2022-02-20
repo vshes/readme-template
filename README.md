@@ -12,8 +12,7 @@
 
 
 ### Docker
-
-     **Commands**
+     ** Commands **
       ``` Docker
       docker build . 
       docker build -f customfile
