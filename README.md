@@ -5,6 +5,14 @@
 ### Java
 - Configurations
    -  Docker
+      ** Commands **
+      ``` Docker
+      docker build . 
+      docker build -f customfile
+      docker images ls
+      docker ps --all
+      docker kill <containerid>
+      ``` Docker
    -  Metric
    -  security
  
