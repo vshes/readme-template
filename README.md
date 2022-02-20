@@ -1,5 +1,25 @@
-### Introduction.
+## Introduction.
 
-## 
+## Tech Stack
 
-[![Sheshadri's GitHub stats](https://github-readme-stats.vercel.app/api?username=vshes)](https://github.com/vshes/github-readme-stats)
+### Java
+- Configurations
+- Annotations
+
+### Databases
+ - mysql
+  - Queries 
+
+### Docker
+  - commands
+
+
+
+### Basic setup files
+ - .env
+ - .gitignore
+ - .dockerignore
+
+
+### IDE plugins
+
