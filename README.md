@@ -11,8 +11,9 @@
 - Annotations
 
 ### Databases
- - mysql
-  - Queries 
+ - Mysql
+   - Queries 
+ - MongoDB
 
 ### Docker
   - commands
