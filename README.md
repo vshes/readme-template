@@ -4,8 +4,16 @@
 
 ### Java
 - Configurations
-   -  Docker
-      ** Commands **
+   -  Mvn / Gradle
+   -  Metric
+   -  security
+ 
+- Annotations
+
+
+### Docker
+
+-      ** Commands **
       ``` Docker
       docker build . 
       docker build -f customfile
@@ -13,11 +21,6 @@
       docker ps --all
       docker kill <containerid>
       ```
-   -  Metric
-   -  security
- 
-- Annotations
-
 ### Databases
  - Mysql
    - Queries 
