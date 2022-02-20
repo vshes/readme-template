@@ -4,8 +4,8 @@
 
 ### Java
 - Configurations
-  -- Docker
-  -- Metric
+   -  Docker
+   -  Metric
  
 - Annotations
 
