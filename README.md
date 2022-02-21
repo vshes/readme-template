@@ -10,11 +10,10 @@
  
 - Annotations
 
-
+---
 ### Docker
-
-- **Commands**
-
+   #### **Commands**
+>Docker command example
 ``` Docker
    docker build . 
    docker build -f customfile
@@ -23,7 +22,7 @@
    docker kill <CID>
    docker exec -it <CN> bash
 ```
-### - **KEYWORDS**
+   #### - **KEYWORDS**
    | **KEYWORD** | **DEFINITION** |
    |--- |--- |
    |FROM       | _Used to sepcify image name._ |
@@ -35,17 +34,14 @@
    |COPY        | _COPY from HOST to Container_|
    |ADD         | _ADD files and packages._|
    |EXPOSE      | _expose port to HOST Machine / Services._ |
-
+---
 ### Databases
  - Mysql
    - Queries 
  - MongoDB
 
-### Docker
-  - commands
 
-
-
+---
 ### Basic setup files
  - .env
  - .gitignore
