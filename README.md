@@ -24,17 +24,18 @@
    docker exec -it <CN> bash
 ```
 - **KEYWORDS**
-``` Docker
-   FROM        - Used to sepcify image name.
-   MAINTAINER  - Maintainer of the file.
-   CMD         - Command to execute inside the container default sh -c
-   RUN         - 
-   ENTRYPOINT  - CMD override and executes the args provided in this Array.
-   WORKDIR     - DIR which is used as default
-   COPY        - COPY from HOST to Container
-   ADD         - ADD files and packages.
-   EXPOSE      - expose port to HOST Machine / Services.
-```
+   | **KEYWORD** | **DEFINITION** |
+   |--- |--- |
+   |FROM       | _Used to sepcify image name._ |
+   |MAINTAINER | _Maintainer of the file._|
+   |CMD         | _Command to execute inside the container default sh -c_     |
+   |RUN         | 
+   |ENTRYPOINT  | _CMD override and executes the args provided in this Array._ |
+   |WORKDIR     | _DIR which is used as default_ |
+   |COPY        | _COPY from HOST to Container_|
+   |ADD         | _ADD files and packages._|
+   |EXPOSE      | _expose port to HOST Machine / Services._ |
+
 ### Databases
  - Mysql
    - Queries 
