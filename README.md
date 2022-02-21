@@ -12,10 +12,10 @@
 
 ---
 ### Docker
-- Links
-   (spring.io)[https://www.baeldung.com/dockerizing-spring-boot-application]
+1. #### Links
+>[https://www.baeldung.com/dockerizing-spring-boot-application](spring.io)
    
-   #### **Commands**
+2.   #### **Commands**
 >Docker command example
 ``` Docker
    docker build . 
@@ -25,7 +25,8 @@
    docker kill <CID>
    docker exec -it <CN> bash
 ```
-   ####  **KEYWORDS**
+3.  ####  Keywords
+   
    | **KEYWORD** | **DEFINITION** |
    |--- |--- |
    |FROM       | _Used to sepcify image name._ |
